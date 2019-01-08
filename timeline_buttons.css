@@ -1,4 +1,4 @@
- .button-container {
+.button-container {
     display: flex;
     margin: 60px auto;
     flex-wrap: wrap;
@@ -37,7 +37,6 @@
   flex: 0 0 160px;
   
   box-shadow: 2px 5px 10px var(#e4e4e4);
- 
 }
 
 // button styles
@@ -62,7 +61,7 @@
   }
 }
 
-.button.-github {
+.button.-dark {
   color: #f2f2f2;
   background-color: #161616;
   
